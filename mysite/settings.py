@@ -25,7 +25,7 @@ SECRET_KEY = 'ono0=96g8bnm(0dheax@__h6-+xh-lp66uz^q_w@13v*9sb$sd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere','django-girls-lucyt.c9users.io']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere','django-girls-lucyt.c9users.io', 'lucytristram.pythonanywhere.com']
 
 
 # Application definition
